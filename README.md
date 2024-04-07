@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satendra Yadav</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Frontend and Web3 developer</h3>
 
 ---
 
