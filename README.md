@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Navya: Stocks And Portfolio WebApp](https://www.navyaadvisors.com/)
 
-- 🌱 I’m currently learning **React-native and Solidity**
+<!-- - 🌱 I’m currently learning **React-native and Solidity** -->
 
 - 💬 Ask me about **React, Solidity and Blockchain**
 
