@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satendra Yadav</h1>
 <h3 align="center">A passionate Frontend and Web3 developer</h3>
 
+--- ---
 
 <!--[![](https://visitcount.itsvg.in/api?id=Satendrayadav16&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
