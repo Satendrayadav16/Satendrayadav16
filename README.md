@@ -32,16 +32,16 @@
 ### 💻 Tech Stack
 
 #### 🚀 Languages
-[![My Skills - Languages](https://skillicons.dev/icons?i=js,py,cs,c)](https://skillicons.dev)
+[![My Skills - Languages](https://skillicons.dev/icons?i=js,py,cs,c,solidity)](https://skillicons.dev)
 
 #### 🧑‍🎨 Frontend
-[![My Skills - Frontend](https://skillicons.dev/icons?i=html,css,react,ts,nextjs,redux,tailwind,bootstrap,sass,vite,figma)](https://skillicons.dev)
+[![My Skills - Frontend](https://skillicons.dev/icons?i=html,css,react,ts,nextjs,redux,tailwind,bootstrap,sass,vite,vitest,jest,webpack,sentry,materialui,styledcomponents,figma)](https://skillicons.dev)
 
 #### 📦 Package Manager
 [![My Skills - Frontend](https://skillicons.dev/icons?i=npm,yarn,bun,pnpm)](https://skillicons.dev)
 
 #### 🧑‍🎨 Mobile and Desktop
-[![My Skills - Frontend](https://skillicons.dev/icons?i=tauri,androidstudio)](https://skillicons.dev)
+[![My Skills - Frontend](https://skillicons.dev/icons?i=tauri,electron,androidstudio)](https://skillicons.dev)
 
 #### 🧠 Backend 
 [![My Skills - Backend](https://skillicons.dev/icons?i=nodejs,express,postman,django)](https://skillicons.dev)
@@ -53,7 +53,7 @@
 [![My Skills - Cloud](https://skillicons.dev/icons?i=aws,docker,netlify,vercel)](https://skillicons.dev) -->
 
 #### 🖼️ Creative Tools
-[![My Skills - C.Tools](https://skillicons.dev/icons?i=vscode,ps)](https://skillicons.dev)
+[![My Skills - C.Tools](https://skillicons.dev/icons?i=vscode,ps,notion,git,github,githubactions,gitlab)](https://skillicons.dev)
 
 #### 📊 ML & Data Tools
 [![My Skills -ML & Data Tools](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
